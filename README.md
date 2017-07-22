@@ -1,8 +1,11 @@
 # BankSimulation
 Simple Bank Simulation with dissimlab
 
+
 Environment: Eclipse, IntelliJ
+
 Input data: Data.txt
+
 
 PL Description:
 
